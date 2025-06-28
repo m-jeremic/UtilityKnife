@@ -13,5 +13,10 @@ namespace UtilityKnife.Calculator
         {
             return x - y;
         }
+
+        public static double Multiply(double x, double y)
+        {
+            return x * y;
+        }
     }
 }
