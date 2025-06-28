@@ -18,5 +18,10 @@ namespace UtilityKnife.Calculator
         {
             return x * y;
         }
+
+        public static int IntDivision(int x, int y)
+        {
+            return x / y;
+        }
     }
 }
